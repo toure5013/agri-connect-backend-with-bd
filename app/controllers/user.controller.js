@@ -31,6 +31,7 @@ exports.addOneUser = async (req, res, next) => {
   const password = data.password;
   const passwordConfirm = data.passwordConfirm;
 
+  console.log( password === passwordConfirm);
   // verifyData : we use function to check if all of user data sent by user are OK
   const dataVerificationReturn = await verifyData.verifyUserData(
     req, 

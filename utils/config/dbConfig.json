@@ -13,20 +13,20 @@
     },
     "mariadb" : {
         "dialect": "mariadb",
-        "host"  : "localhost",
-        "username"  : "root",
-        "password"  : "",
-        "databaseName"  : "api",
+        "host"  : "db4free.net",
+        "username"  : "agriconnect",
+        "password"  : "Agri#5à@qh_4358",
+        "databaseName"  : "agriconnect",
         "debug"    :  true
 
     },
     "mysql" :
     {
         "dialect": "mysql",
-        "host"  : "localhost",
-        "username"  : "root",
-        "password"  : "",
-        "databaseName"  : "api",
+        "host"  : "db4free.net",
+        "username"  : "agriconnect",
+        "password"  : "Agri#5à@qh_4358",
+        "databaseName"  : "agriconnect",
         "debug"    :  true
 
     },

@@ -55,19 +55,9 @@ exports.verifyUserData = (
       ]
     }
 
-    // password
-    if (password !== passwordConfirm /* && password < 8 && RegexPassword */) {
+    // password /* && password < 8 && RegexPassword */
+    if (password === passwordConfirm) {
       // message d'erreur disant que les deux mots de pass ne correspondent pas
-      error = true
-      return [
-        error,
-        {
-          status: 400,
-          message: 'ERROR  : ' + message.error.different_password
-        }
-      ]
-    }
-  } else {
     error = true
     return [
       error,
@@ -76,6 +66,17 @@ exports.verifyUserData = (
         message: 'ERROR  : ' + message.error.blank
       }
     ]
+    }
+
+  } else {
+    error = true
+      return [
+        error,
+        {
+          status: 400,
+          message: 'ERROR  : ' + message.error.different_password
+        }
+      ]
   }
 
   return [
