@@ -1,0 +1,41 @@
+{
+    "bd": {
+        "host": "host",
+        "dialect": "bdtype"
+    },
+    "options" : {
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "acquire": 30000,
+            "idle": 10000
+        }
+    },
+    "mariadb" : {
+        "dialect": "mariadb",
+        "host"  : "localhost",
+        "username"  : "root",
+        "password"  : "",
+        "databaseName"  : "api",
+        "debug"    :  true
+
+    },
+    "mysql" :
+    {
+        "dialect": "mysql",
+        "host"  : "localhost",
+        "username"  : "root",
+        "password"  : "",
+        "databaseName"  : "api",
+        "debug"    :  true
+
+    },
+    "mongodb":{
+
+    },
+    "postgree" : {
+
+
+    }
+
+}

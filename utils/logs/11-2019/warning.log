@@ -1,0 +1,92 @@
+- Date : 2019-11-13T17:19:58.159Z  --  level : [31merror[39m -- message : {"status":400,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-14T00:54:51.322Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-14T01:56:59.420Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-14T13:33:34.375Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-14T13:34:14.791Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-14T13:34:46.414Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-14T20:51:37.142Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : Mot de pass ne correspond pas"} 
+- Date : 2019-11-14T20:51:41.652Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : Mot de pass ne correspond pas"} 
+- Date : 2019-11-14T20:53:32.937Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : Mot de pass ne correspond pas"} 
+- Date : 2019-11-14T20:54:53.003Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:55:13.237Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:55:24.080Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:56:05.090Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:56:06.802Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:56:06.988Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:56:07.313Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:56:07.466Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:56:07.789Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:56:07.978Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:57:01.407Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:57:04.166Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-14T20:58:09.769Z  --  level : [31merror[39m -- message : {"error":true,"status":404,"message":"ERROR : User not found"} 
+- Date : 2019-11-16T00:37:06.054Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:37:37.018Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:37:41.478Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:38:03.852Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:39:15.354Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:39:19.025Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:40:47.178Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:40:55.476Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T00:41:09.481Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T13:37:08.702Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-16T22:04:40.424Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:07:53.167Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:08:01.438Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:08:28.043Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:08:29.329Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:27:57.987Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:28:05.741Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:30:20.149Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:30:27.231Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:30:46.226Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:30:50.331Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:30:56.271Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:38:51.042Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:43:09.760Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T22:43:15.437Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:45:14.132Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:45:14.191Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:46:24.749Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:22.331Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:27.779Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:28.949Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:29.212Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:29.466Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:29.606Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:29.896Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:30.038Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:30.312Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:47:30.443Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:48:01.072Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-16T23:49:34.456Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T11:42:27.724Z  --  level : [31merror[39m -- message : [true,{"status":400,"success":false,"message":"Fichier non enregistrer, veuillez rentrer un fichier correct","error":true}] 
+- Date : 2019-11-17T11:42:38.859Z  --  level : [31merror[39m -- message : [true,{"status":400,"success":false,"message":"Fichier non enregistrer, veuillez rentrer un fichier correct","error":true}] 
+- Date : 2019-11-17T11:43:03.327Z  --  level : [31merror[39m -- message : [true,{"status":400,"success":false,"message":"Fichier non enregistrer, veuillez rentrer un fichier correct","error":true}] 
+- Date : 2019-11-17T11:45:01.995Z  --  level : [31merror[39m -- message : [true,{"status":400,"success":false,"message":"Fichier non enregistrer, veuillez rentrer un fichier correct","error":true}] 
+- Date : 2019-11-17T11:46:53.212Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T11:48:52.430Z  --  level : [31merror[39m -- message : [true,{"status":400,"success":false,"message":"Fichier non enregistrer, veuillez rentrer un fichier correct","error":true}] 
+- Date : 2019-11-17T11:48:57.601Z  --  level : [31merror[39m -- message : [true,{"status":400,"success":false,"message":"Fichier non enregistrer, veuillez rentrer un fichier correct","error":true}] 
+- Date : 2019-11-17T11:55:02.259Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T11:56:34.757Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T11:58:24.093Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T11:59:31.073Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T11:59:34.467Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T11:59:34.937Z  --  level : [31merror[39m -- message : {"status":400,"success":false,"error":"Erreur lors de l'enregistrement du fichier"} 
+- Date : 2019-11-17T17:32:39.615Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:33:26.727Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:33:30.224Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:33:41.606Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:28.320Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:28.909Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:29.411Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:30.001Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:30.355Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:30.656Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:30.939Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:31.193Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:44.534Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:34:50.993Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:35:08.425Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:35:33.944Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-17T17:35:33.972Z  --  level : [31merror[39m -- message : Error token invalid {} 

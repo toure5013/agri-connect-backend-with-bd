@@ -1,0 +1,7 @@
+- Date : 2019-11-01T21:05:03.233Z  --  level : [33mwarn[39m -- message : Application démarré sur localhost:8080 
+- Date : 2019-11-01T21:06:05.693Z  --  level : [33mwarn[39m -- message : Application démarré sur localhost:8080 
+- Date : 2019-11-01T21:06:55.183Z  --  level : [33mwarn[39m -- message : Application démarré sur localhost:8080 
+- Date : 2019-11-01T21:07:25.485Z  --  level : [32minfo[39m -- message : {"host":"localhost:8080","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36","dnt":"1","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7","cookie":"_ga=GA1.1.214656947.1554302577"} 
+- Date : 2019-11-01T21:07:25.488Z  --  level : [31merror[39m -- message : Error token invalid {} 
+- Date : 2019-11-01T21:08:00.152Z  --  level : [33mwarn[39m -- message : Application démarré sur localhost:8080 
+- Date : 2019-11-01T21:08:03.804Z  --  level : [33mwarn[39m -- message : Application démarré sur localhost:8080 
